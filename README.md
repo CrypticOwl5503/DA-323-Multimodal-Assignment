@@ -4,7 +4,7 @@
 
 Collected and processed datasets across image, text, audio, and structured weather data. Automated scripts used for scraping, recording, and preprocessing.
 
-## Task 2: Flags & Anthems Analysis
+## Task 3: Flags & Anthems Analysis
 
 Analyzed national flags (visual features), anthems (text analysis), and their correlations. Explored multimodal relationships between color symbolism and cultural identity.
 
