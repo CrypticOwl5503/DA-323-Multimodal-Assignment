@@ -1,6 +1,3 @@
-In the Kingdom of Druk, where cypresses grow,
-Refuge of the glorious monastic and civil traditions,
-The King of Druk, precious sovereign.
-His being is eternal, his reign prosperous,
-The enlightenment teachings thrive and flourish,
-May the people shine like the sun of peace and happiness!
+version https://git-lfs.github.com/spec/v1
+oid sha256:d90ca744f4c2e4dbec842b9a7e8eff9c8935faa0a6f5e051aaa1cb02b53be21c
+size 293

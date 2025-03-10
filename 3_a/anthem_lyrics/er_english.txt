@@ -1,18 +1,3 @@
-PRELUDE:
-Eritrea, Eritrea, Eritrea,
-Her enemy decimated,
-and her sacrifices vindicated by liberation.
-
-1. Steadfast in her goal,
-symbolizing endurance,
-Eritrea, the pride of her oppressed people,
-proved that the truth prevails.
-
-
-Eritrea, Eritrea,
-holds her rightful place in the world.
-
-Dedication that led to liberation,
-Will build up and make her green,
-We shall honor her with progress,
-We have a word to her to embellish.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2007bf2c80f2d1b2de08f3c3b38cfc12ee6fd0a296ad379ec40c53428806a4a
+size 443

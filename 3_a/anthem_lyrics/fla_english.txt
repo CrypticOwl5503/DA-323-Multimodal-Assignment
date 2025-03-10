@@ -1,15 +1,3 @@
-1. They won’t tame him, the proud Flemish Lion
-Even if they threat his freedom, with fettering and shouting
-They won’t tame him, as long as one Fleming is still alive
-As long as the Lion can claw, as long as he has teeth
-
-CHORUS:
-They won’t tame him, as long as one Fleming is still alive
-As long as the Lion can claw, as long as he has teeth
-
-2. Time will devour the cities, no thrones will ever last
-Armies may go under, but a people never die.
-The enemy will attack, surrounded by the fear of death
-we laugh with his anger: the Flemish Lion is there!
-
-Chorus
+version https://git-lfs.github.com/spec/v1
+oid sha256:50cff83a2e6a7e36f0545fa1537be96621ee979984878a45dc6c86f10d9b9065
+size 581

@@ -1,30 +1,3 @@
-CHORUS:
-Become hot, become more hot,
-You, the holy sun.
-O sun of freedom,
-O sun of good fortune.
-
-1. We through the storm
-Have come to the end of the road.
-We have also traversed the paths of darkness,
-Also the way of light.
-The red road of victory,
-The pure path of brotherhood.
-
-Chorus
-
-2. Our revolutionary homeland
-Is now in the hands of the workers.
-The inheritance of lions
-Now belongs to the peasants.
-The age of tyranny has passed,
-The turn of the labourers has come.
-
-Chorus
-
-3. We want peace and brotherhood
-Between the peoples of the world.
-We demand more freedom
-For all who toil.
-We want bread for them,
-We want houses and clothes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:345acd1b0b3bb5e1b4882f585128bfbaf874d1bcf62a3d637226f75329ebf45d
+size 673

@@ -1,6 +1,3 @@
-Title: TV Guide, TV Listings, Streaming Services, Entertainment News and Celebrity News - TV Guide
-Content: join sign sign customize tv listings joining tv guide agree terms use acknowledge data practices privacy policy henry wagner moura star old friends get heads grift goes bad
-
-Title: TV news, reviews and previews of the top shows
-Content: reality tv mafs great british bake strictly come dancing taskmaster doctor geordie shore guide weeks best new shows films tv bbc drama best ever digital spy part hearst uk entertainment network earn commission products purchased links article ©2025 hearst uk trading name national magazine company ltd 30 panton street leicester square london sw1y 4aj registered england rights reserved
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c9ba9069dc2e6d2c71525ee21f97303f6673a1dec56ab914db569e52420fa66
+size 740

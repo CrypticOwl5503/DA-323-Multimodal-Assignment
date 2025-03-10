@@ -1,24 +1,3 @@
-1. Bulgaria, dear, you’re the land of our heroes!
-Incessant and mighty has surged your ascent.
-The link with our brothers shall grow ever stronger;
-The firm, soldier’s link with the Soviet land!
-
-CHORUS:
-Hail, our Republic, we sing to your glory!
-May you fore’er be a true shield of peace! –
-But should an enemy storm o’er the country,
-Lead us to battle, to glorious feats!
-
-2. How great is the sun of our Lenin and Stalin,
-Whose unequalled splendour throws light on our way!
-The hearts which Dimitrov has fired are flaming
-In struggle and work with so dazzling a ray!
-
-Chorus
-
-3. We’re digging our mines, we are working and building,
-We’re tilling in common the large tract of soil.
-Our country, our beautiful country thus serving
-With all that we have, with our lives and our toil.
-
-Chorus
+version https://git-lfs.github.com/spec/v1
+oid sha256:63d07b92a696e0ffd7f92c719b5c4960e2dfc8423a926371b13790ec4c897dde
+size 828

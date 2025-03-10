@@ -1,29 +1,3 @@
-1. Stand up, courageous homeland
-You who in three glorious days
-Seized the flag and opened the door
-For a free and new Congo,
-That never again will fail,
-Frighten anyone.
-
-CHORUS:
-We’ve broken our chains,
-We will work without penalty,
-We are a sovereign nation.
-
-2. If the enemy kills me too early,
-Brave comrade, seize my gun;
-And if the ball touches my heart,
-All our sisters will stand without fear,
-And our mountains, our streams into a rage
-Repel the invader.
-
-Chorus
-
-3. Here begins the Fatherland
-Where every human has the same price.
-Our only guide is the People.
-Our genius is still the People.
-It is he alone who decided
-To restore its dignity.
-
-Chorus
+version https://git-lfs.github.com/spec/v1
+oid sha256:512c4e34b7c01cb4a5aa58b001be29198b7e7ace87dcc7f8fd77bafbba27c194
+size 692

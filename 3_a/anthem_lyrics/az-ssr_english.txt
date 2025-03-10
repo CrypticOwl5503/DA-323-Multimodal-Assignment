@@ -1,24 +1,3 @@
-1. Azerbaijan! The glory, the flowers of the Republic!
-The Soviet people to bring a strong new birth of freedom.
-October Revolution will be happy to give you infinite courage.
-Cheers for the extraordinary wisdom, cheering for the people’s power!
-
-CHORUS:
-Wise leadership of Lenin’s party created, we walk in the road.
-Sunshine communism, shines with the city and countryside.
-We continue to win tomorrow’s victory laurel to forge ahead.
-Long live, long live, Azerbaijan, in the great Soviet land!
-
-2. The Fire country, Snow peak cultivated proven people.
-Fearless thirst for freedom fighting hero is a martyr.
-The determination of a thousand memories transmission burst today,
-We move towards communism, the pace of a firm and stable.
-
-Chorus
-
-3. The friendly people of Russia, the heroic champion of the league,
-To firmly hold the sacred sincere hand of friendship.
-Forces from alliance unbreakable fraternal peoples,
-Let this treasure filled with glorious Soviet motherland!
-
-Chorus
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba7c4acf1a5b13286b8d35820d90f849fdc76fb517b0618cdaa9b81536e35c15
+size 1013

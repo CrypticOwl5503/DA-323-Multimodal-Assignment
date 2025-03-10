@@ -1,9 +1,3 @@
-Title: Edutopia - What Works in Education
-Content: content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved content saved
-
-Title: TeachThought – A Critical Thinking Classroom
-Content: google ’ replace critical thinking artificial intelligence similar useful also make users overly dependent educators must prioritize data privacy especially ai tools gather student information ’ important realize “ culture ” comprised tangible factors students intangible factors curiosity everpresent let ’ honest—video editing feel like endless rabbit hole one moment ’ trimming clip next … teachthought education resource platform provides teachers evidencebased teaching strategies resources classroom resources promote critical thinking products build
-
-Title: Khan Academy
-Content: 
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:996dae07f2b2aa422e5acbb3039193f8d1f0a03a095b5c1e683ec5b4794a149d
+size 1149

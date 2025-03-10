@@ -1,26 +1,3 @@
-1. Into the world came a new feeling
-Through the world goes a powerful call
-By the wings of a gentle wind
-It shall now fly from place to place
-Not to the sword thirsting for blood
-Does it draw the human family
-To the world eternally at war
-It promises sacred harmony
-
-2. Under the sacred sign of Hope
-Gather the warriors of peace
-And this thing quickly grows
-By the labors of those who hope
-The walls of a thousand years stand firm
-Between the divided peoples
-But the stubborn barriers will crumble
-Knocked down with sacred love
-
-3. Based on a neutral language
-Understanding one another
-The people will agree to make
-One great family circle
-Our diligent colleagues
-In peaceful labor will never tire
-Until the beautiful dream of humanity
-For eternal good is realized
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3f2c395dd9e6c283dd41df4c11f19564e80c8dca498d51ed2b1f160188d43f9
+size 790

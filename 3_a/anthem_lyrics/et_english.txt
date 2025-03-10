@@ -1,10 +1,3 @@
-Respect for citizenship is strong in our Ethiopia;
-National pride is seen, shining from one side to another.
-For peace, for justice, for the freedom of peoples,
-In equality and in love we stand united.
-Firm of foundation, we do not dismiss humanness;
-We are peoples who live through work.
-Wonderful is the stage of tradition, mistress of proud heritage,
-Mother of natural virtue, mother of a valorous people.
-We shall protect you – we have a duty;
-Our Ethiopia, live! And let us be proud of you!
+version https://git-lfs.github.com/spec/v1
+oid sha256:81f251a0d3fef34549cfa6473bc1adfe8da5e1a2d29f43e6ff7100a14acd12f1
+size 506

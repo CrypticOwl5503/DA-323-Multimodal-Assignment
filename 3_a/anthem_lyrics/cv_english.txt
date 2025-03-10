@@ -1,18 +1,3 @@
-Sing, brother
-Sing, my brother
-For Freedom is a hymn
-And Man a certainty.
-
-With dignity, bury the seed
-In the dust of the naked island:
-In life ís precipice
-Hope is as big as the sea
-Which embraces us.
-Unwavering sentinel of the seas and winds
-Between the stars and the Atlantic ocean
-Sing the Chant of Freedom.
-
-Sing, brother
-Sing, my brother
-For Freedom is a hymn
-And Man a certainty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:743aa20ad75b43e8e23b3789b40e65cab583e002b316508cf748ab06af9f3bbb
+size 404

@@ -1,6 +1,3 @@
-China heroically stands in the Universe,
-Extends to the Eight Corners,
-The famous descendant from Kunlun Peak.
-The rivers turn greatly, the mountains continuous.
-Five nationalities open up the sky of Yao,
-For millions of myriads of years.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e0a8546714d67e81164854abeba47a9d185d5a7d2dd21371397a02fbc514394
+size 243

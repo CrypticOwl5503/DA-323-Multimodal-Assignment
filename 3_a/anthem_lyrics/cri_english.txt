@@ -1,13 +1,3 @@
-1. Your cornfields and your mountains are enchanting, Motherland,
-Your sun and your sea are curative, Motherland.
-We’ll save this land
-And pass to our grandsons like a garden flourishing Crimea,
-Like a garden flourishing Crimea!
-
-2. The dawns of freedom have warmed you, Motherland,
-The people-brothers have praised you, Motherland.
-We’ll save this land
-And will together, the Crimeans, glorify Crimea in the centuries,
-Glorify Crimea in the centuries!
-
-Be glorious, Crimea!
+version https://git-lfs.github.com/spec/v1
+oid sha256:aab23f003e684abc459569969a20082d298308cc43cc43eabc6b2a74b3c1fa82
+size 490

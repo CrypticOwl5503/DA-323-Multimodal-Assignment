@@ -1,15 +1,3 @@
-Lord, bless Africa
-May her spirit rise high up
-Hear thou our prayers
-Lord bless us.
-
-Lord, bless Africa
-May her spirit rise high up
-Hear thou our prayers
-Lord bless us Your family.
-
-CHORUS:
-Descend, O Spirit
-Descend, O Holy Spirit
-Lord bless us
-Your family.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28cb356db1671a54f9dd1bcd7b9f150518e9a64c7c8d778f64be1b09b965ae16
+size 271

@@ -1,22 +1,3 @@
-Hear, mortals, the sacred cry:
-“Freedom! Freedom! Freedom!”
-Hear the noise of broken chains,
-see the noble Equality enthroned.
-Their most honorable throne have opened
-the United Provinces of the South.
-And the free ones of the world reply:
-“To the Argentine people, cheers!”
-“To the Argentine people, cheers!”
-And the free ones of the world reply:
-“To the Argentine people, cheers!”
-And the free ones of the world reply:
-“To the Argentine people, cheers!”
-
-CHORUS:
-May the laurels be eternal
-the ones we managed to win,
-the ones we managed to win.
-Let us live crowned in glory…
-or let us swear in glory to die!
-Or let us swear in glory to die!
-Or let us swear in glory to die!
+version https://git-lfs.github.com/spec/v1
+oid sha256:35eb02db516c939ab2acbd83ef772bccbe5f66e26263635024b618df6c4dcb37
+size 719

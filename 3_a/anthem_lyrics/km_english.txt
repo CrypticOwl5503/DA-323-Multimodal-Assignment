@@ -1,25 +1,3 @@
-The flag is flying,
-Announcing complete independence;
-The nation rises up
-Because of the faith we have
-In this our Comoria.
-Let us always have devotion
-To love our Great Islands.
-
-We Comorians are of one blood,
-We Comorians are of one faith.
-On these Islands we were born,
-These Islands brought us up.
-May God always help us;
-Let us always have the firm resolve
-To love our fatherland,
-Love our religion and the world.
-
-The flag is flying.
-From the Sixth of July
-The Nation rises up;
-Our Islands are lined up.
-Maori and Anzuan,
-Moheli and Comore,
-Let us always have devotion
-To love our Great Islands.
+version https://git-lfs.github.com/spec/v1
+oid sha256:947fe9cdafe4dc60a82f0e523aba37e0138ee3d13bc82c14a8fc1455aa81c8f2
+size 625

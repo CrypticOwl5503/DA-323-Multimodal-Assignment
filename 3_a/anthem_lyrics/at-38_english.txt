@@ -1,26 +1,3 @@
-1. Blessed be endlessly,
-Wonderful native land!
-Green firs and golden spikes
-Friendly adorn your lands.
-German labor – earnest and conscientious,
-German love – tender and soft –
-Fatherland, how marvelous you are,
-God with thee, my Austria!
-
-2. No tyranny, no serfs,
-Open way for every force!
-Equal duties, equal rights,
-Free art and science!
-Strong bravery, firm look,
-Despite every stroke of fate
-Go up along the path of happiness,
-God with thee, my Austria!
-
-3. Let’s, through no discord divided,
-Look at one goal,
-Let’s in concord and in peace
-Build on the boon of future!
-Strong youth of our people
-Becomes like its forefathers,
-Blessed be, native land,
-God with thee, my Austria!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f33a5989534b1c31d4cb124c0968f9478f3c57c03c943987d0e081240e65243f
+size 719

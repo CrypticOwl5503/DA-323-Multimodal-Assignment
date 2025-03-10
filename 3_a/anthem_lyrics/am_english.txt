@@ -1,27 +1,3 @@
-1. Land of our fathers, free, independent,
-Which has endured from age to age.
-Its sons and daughters now proclaim
-Armenia, sovereign and free.
-Its sons and daughters now proclaim
-Armenia, sovereign and free.
-
-2. Brother, take this banner,
-Made with my own hands,
-During sleepless nights,
-And bathed in my tears.
-During sleepless nights,
-And bathed in my tears.
-
-3. See, it has three colours;
-A single hallowed symbol.
-May it sparkle before the foe,
-May Armenia flourish ever!
-May it sparkle before the foe,
-May Armenia flourish ever!
-
-4. Death is everywhere the same,
-Man is born just once to die,
-But blest is he who gives his life
-To defend his nation’s freedom.
-But blest is he who gives his life
-To defend his nation’s freedom.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd3927114c3e01fb83cc1a725f00b247b492283ca437a584a098383b13afe09c
+size 761

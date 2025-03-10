@@ -1,19 +1,3 @@
-1. Almighty God of Justice,
-We implore you to protect our Tsar.
-Endow him with strength
-To crush all foes.
-
-For the foes’ defeat
-And a bright future
-Grant, o Lord, the Tsar of Tsars,
-Sunlit days to our Tsar.
-
-2. And to the Bulgarian tribe,
-Enlighten, God, the mind,
-To fill with love,
-And blossom together.
-
-With agreement so it could,
-Strength, will, it to develop,
-With development, allow it God,
-A glorious name to get!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4cb33bf41611a6fbc2c3044d1980ae8d2ebf1c07241cc5d09c832d26ad8f3b1
+size 442

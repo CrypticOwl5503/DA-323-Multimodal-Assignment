@@ -1,10 +1,3 @@
-So long as there is the earth and the heavens;
-So long as the world endures;
-So long as there is life in the world;
-So long as a single Afghan breathes;
-There will be this Afghanistan.
-Long live the Afghan nation.
-Long live the Republic.
-Forever there be our national unity;
-Forever there be the Afghan nation and the Republic.
-Forever the Afghan nation, the Republic and National Unity — National Unity.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05b357e0ed77517722a64a06b0daa3ba521f6f84f63b57f5ef22b55d42121af1
+size 415

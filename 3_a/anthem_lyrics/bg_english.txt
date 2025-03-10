@@ -1,15 +1,3 @@
-Proud Balkan mountains,
-next to them the Danube flows,
-the sun sheds its light over Thrace,
-shining over Pirin.
-
-CHORUS:
-Dear native land,
-you are paradise on earth,
-your beauty and your charm,
-ah, they never end.
-
-Dear native land,
-you are paradise on earth,
-your beauty and your charm,
-ah, they never end.
+version https://git-lfs.github.com/spec/v1
+oid sha256:079c29cce2e7181d9e661cfc3f4e7a91510aff6c9ae5bdadc9357abb98c9aeb2
+size 321

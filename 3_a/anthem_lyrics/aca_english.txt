@@ -1,30 +1,3 @@
-1. Hail Thou Star of the Ocean,
-Portal of the Sky,
-Ever Virgin Mother
-Of The Lord Most High.
-Of The Lord Most High.
-
-2. Acadia, my homeland,
-To your name I draw myself,
-My life, my faith belong to you,
-You will protect me.
-You will protect me.
-
-3. Acadia, my homeland,
-My land and my challenge,
-From near, from far
-You hold on to me,
-My heart is Acadian.
-My heart is Acadian.
-
-4. Acadia, my homeland,
-I live your history,
-I owe you my pride,
-I believe in your future.
-I believe in your future.
-
-5. Hail Thou Star of the Ocean,
-Portal of the Sky,
-Ever Virgin Mother
-Of The Lord Most High.
-Of The Lord Most High.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e74056f8d830cea500b1caa0534b93543aee3b1c3065ff0741f061892622ba36
+size 639

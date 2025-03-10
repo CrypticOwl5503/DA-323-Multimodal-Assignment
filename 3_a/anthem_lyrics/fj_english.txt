@@ -1,19 +1,3 @@
-1. Let us show pride and honour our nation
-Where righteous people reside
-Where prosperity and fellowship may persevere
-Abandon deeds that are immoral
-
-CHORUS:
-Let Fiji live on
-And progress onwards
-May our leaders be honourable men
-Let them lead our people
-To great things
-And bring an end to all things immoral
-
-2. The burden of change lie on your shoulders youth of Fiji
-Be the strength to cleanse our nation
-Be wary and not harbour malice
-For we must abandon such sentiments forever
-
-Chorus
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4b2c2162de786756ed50cf2fb67af16c2f3fcc4355ce40828f635b90a75e2ea
+size 510

@@ -1,16 +1,3 @@
-The Khmer Nation is famous in the world for their skill
-and their victory and success in building great temples to morality
-of the Noble and elevated Dhamma, the best of all national religions
-The honor of our ancestors remains on the face of the earth.
-
-CHORUS:
-Khmer, rise and awake
-Khmer, rise and awake
-Khmer, rise and awake
-Struggle to build the glorious state
-
-The enemy sneak into Cambodia to make horrifying attacks
-Win the final victory of the Khmer Nation
-in order to remain a great country
-
-Chorus
+version https://git-lfs.github.com/spec/v1
+oid sha256:a485dd60b9368d153e68ef0898382445b0ce0f92f4e4801d7eb733f54289bf15
+size 523

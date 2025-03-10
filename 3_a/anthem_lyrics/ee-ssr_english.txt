@@ -1,20 +1,3 @@
-1. Endure, heroic people of Kalev‘s
-And stand as a rock, our homeland!
-Your courage did not subside in the sufferings,
-You broke yourself through the centuries,
-And arose a socialist country in blossom,
-For sun could shine in your days.
-
-2. Ye roar, factories, and corn-fields, wave;
-Reap, sickle, and beat out, hammer!
-May life of the Soviets throb in mighty swing;
-May happiness be brought to people by good labor!
-Among our Soviet nations and states
-Estonia, march in the firm fore!
-
-3. You’re bearing Lenin’s banner high,
-You’re boldly marching your Communist way.
-Our Party will lead our steps
-And take us from victory to victory.
-Grow in her firm leadership
-And become mighty and fair, our Homeland!
+version https://git-lfs.github.com/spec/v1
+oid sha256:39095980a8e21fbf1c2887ff0abc5aebaedc79c0485666e5dad6e5c906380d2a
+size 732

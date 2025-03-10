@@ -1,25 +1,3 @@
-1. Aruba beloved home
-our venerated cradle
-though small and simple you may be
-you are indeed esteemed.
-
-CHORUS:
-Aruba our dear country
-our rock so well beloved
-our love for you is so strong
-that nothing can destroy it.
-that nothing can destroy it.
-
-2. Your beaches so much admired
-with palm trees all adorned
-your coat of arms and flag
-the symbols of our pride.
-
-Chorus
-
-3. The greatness of our people
-is their great cordiality
-and may God guide and preserve
-its love for freedom.
-
-Chorus
+version https://git-lfs.github.com/spec/v1
+oid sha256:6aac97d39b424e3903f29c05ec2344f1d0f6bceff52ba5bd3ed235872c3c9411
+size 512

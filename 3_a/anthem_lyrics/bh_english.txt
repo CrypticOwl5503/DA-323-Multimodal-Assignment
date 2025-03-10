@@ -1,12 +1,3 @@
-Our Bahrain
-Our King
-A symbol of the harmony
-Its constitution is high in the place and the position
-Its charter is the way of (method of) sharia, Arabism and the values
-Long live the kingdom of Bahrain
-
-Country of nobles
-Cradle of peace
-Its constitution is high in the place and the position
-Its charter is the way of (method of) sharia, Arabism and the values
-Long live the kingdom of Bahrain
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b14d1b488cef86c3f6cfabdb79ef3a74cf2dcc5f2be62dc039d00c9c667eaaf
+size 404

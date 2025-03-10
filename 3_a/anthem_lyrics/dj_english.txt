@@ -1,9 +1,3 @@
-Arise with strength! For we have raised our flag,
-The flag which has cost us dear
-With extremes of thirst and pain.
-
-Our flag, whose colours are the everlasting green of the earth,
-The blue of the sky, and white, the colour of peace;
-And in the centre the red star of blood.
-
-Oh flag of ours, what a glorious sight!
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f66faebda7214c2f7785d3796ba808547ac78fad6f49f122243bdd8f371d2d5
+size 323

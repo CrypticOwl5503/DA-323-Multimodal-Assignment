@@ -1,13 +1,3 @@
-Hasten to battle, men of Bayamo,
-For the homeland looks proudly to you.
-You do not fear a glorious death,
-Because to die for the country is to live.
-
-To live in chains is to live
-in dishonour and ignominy.
-Hear the clarion call,
-Hasten, braves ones, to battle!
-To live in chains is to live
-in dishonour and ignominy.
-Hear the clarion call,
-Hasten, braves ones, to battle!
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfe5056dee2d26eca20d3674f17bc9f35c59ff695291defbc978d7149cb10224
+size 383

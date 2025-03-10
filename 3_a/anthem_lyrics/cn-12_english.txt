@@ -1,9 +1,3 @@
-Solidify our golden empire,
-Follow the will of Heaven,
-All of creation will celebrate,
-All of mankind will be filled with happiness,
-As long as the Qing rules.
-May the enlightened empire,
-And its vast boundaries be protected.
-The sky is high,
-The sea is turbulent.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4314044bdfb6c1017a13a79b076993c9fc46198ec3b995d3b3bfaa3d9354bd98
+size 272

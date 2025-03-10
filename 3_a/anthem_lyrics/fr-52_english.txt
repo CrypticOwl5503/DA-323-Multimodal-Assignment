@@ -1,31 +1,3 @@
-1. The voices of cannon alarm
-France calls her children
-– Come said the soldier, to arms!
-It’s my mother, I defend.
-
-CHORUS:
-Dying for the Fatherland
-Dying for the Fatherland
-It is the fate most beautiful, most envied
-It is the fate most beautiful, most envied
-
-2. We, friends, who battle away
-Succumb in obscurity
-Vow at least our funeral
-In France, in freedom.
-
-Chorus
-
-3. Brothers, for a holy cause,
-When each of us is a martyr,
-Do not utter a complaint,
-France, one day we shall bless.
-
-Chorus
-
-4. O Creator of nature,
-Bless our bounty again,
-We would complain about an injury,
-We are dying for freedom.
-
-Chorus
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a2b2dd297f0d82bb4d971018b7bd762b9a84ffe6df0162ca4b0c9684e3d5069
+size 649

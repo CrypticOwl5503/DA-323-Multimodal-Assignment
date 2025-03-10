@@ -1,4 +1,3 @@
-We stand in salute of our great nation Assyria.
-We stand in honor of our forefathers who,
-Spread across the earth and guided nations,
-To live in peace, prosperity, and achieve greatness in God.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eafa372ecd3e1a130bf45a448837ef6d8ce4846ad077f16f02154b42044aa6ea
+size 196

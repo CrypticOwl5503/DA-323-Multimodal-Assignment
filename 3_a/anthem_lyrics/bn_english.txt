@@ -1,6 +1,3 @@
-God bless His Majesty
-With a long life
-Justly and nobly rule the Kingdom
-And lead our people happily forever
-Peacefully be, the Kingdom and Sultan
-Lord, save Brunei, the abode of peace
+version https://git-lfs.github.com/spec/v1
+oid sha256:90b5276076e2874ab1c7e57965febb9791f1aee84399d6eae6907ef9fc16a908
+size 189

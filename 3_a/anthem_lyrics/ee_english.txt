@@ -1,20 +1,3 @@
-1. My fatherland, my joy and happiness,
-How beautiful you are!
-I shall not find such ever
-In this huge wide world
-Which would be so dear to me
-As you, my fatherland!
-
-2. You have given me birth
-And raised me up;
-I shall thank you always
-And remain faithful to you ’til death,
-To me most beloved are you,
-My precious fatherland!
-
-3. May God watch over you,
-My precious fatherland!
-Let Him be your defender
-And provide bountiful blessings
-For whatever you undertake,
-My precious fatherland!
+version https://git-lfs.github.com/spec/v1
+oid sha256:1459d21702ec505cec7039bbda4cf6a8f99c96045e2aa3957cc68814f0606795
+size 509

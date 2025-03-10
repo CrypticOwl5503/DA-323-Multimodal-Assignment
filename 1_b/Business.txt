@@ -1,9 +1,3 @@
-Title: Forbes
-Content: byian sayson forbes staff minimum net worth qualify rose 14 billion 11 billion last year “ pressing problems require multidisciplinary solutions ” jim breyer founder breyer capital
-
-Title: Harvard Business Review - Ideas and Advice for Leaders
-Content: employees feel obligated laugh leaders ’ jokes experience higher levels emotional exhaustion reduced job satisfaction sign daily alert stay top latest content links digital articles videos podcasts published past 24 hours ‎ four decades achieving parity education women still far achieving workplace adam galinsky kevin evers horacio falcão thomas wiegelmann roundup harvard business review ’ popular ideas advice resources practical advice personal stories lift move forward career life advice young professionals explore hbr hbr store hbr manage account follow hbr harvard business publishing copyright ©2025 harvard business school publishing rights reserved harvard business publishing affiliate harvard business school
-
-Title: Business Insider - Latest News in Tech, Markets, Economy & Innovation
-Content: jump
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbdc9595af198b05e0c9dd3e0f463c0fd291bf4cf43100b7b9e4546c8f8e38e8
+size 1114

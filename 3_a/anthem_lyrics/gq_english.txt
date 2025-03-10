@@ -1,17 +1,3 @@
-We walk along the path
-Of our immense joy.
-In brotherhood, without division,
-We sing Liberty!
-After two centuries of being subdued
-Under colonial domination,
-In fraternal union, without discrimination,
-We sing Liberty!
-We cry, long live a free Guinea,
-And we defend our liberty
-We always sing, free Guinea,
-And we always preserve our unity.
-We cry, long live a free Guinea,
-And we defend our liberty
-We always sing, free Guinea,
-And we preserve and we preserve our national independence
-And we preserve and we preserve our national independence.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf67247afe7485ae92939274c0563b5c06e03664552a0a8c6ac6292c2ba9e5a5
+size 561

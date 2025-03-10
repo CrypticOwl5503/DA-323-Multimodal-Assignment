@@ -1,8 +1,3 @@
-Where is my home, where is my home?
-Water roaring across meadows,
-Pines whisper across crags,
-In the garden shine the blossoms,
-Paradise on earth it is to see!
-And that’s the beautiful land,
-Czech land, my home.
-Czech land, my home.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01394c2f8c8fdf96327a584c6e96f2f06871a494163449d272eec5e26f7fae50
+size 241

@@ -1,24 +1,3 @@
-1. The collar of slavery hard
-And darkness of grey fate
-We crashed with fire and word
-In cruel unequal fight.
-
-CHORUS:
-Our people’s republic,
-Our republic- Hail!
-Today our land is free,
-Today everyone lives free!
-
-2. For us the freedom is sacred
-And we will defend it with love.
-The blood of the fighters is spilled,
-On every Hallow and ditch.
-
-Chorus
-
-3. For our and foreign tyrants,
-Motherland, there is no space!
-We remember the numerous wounds
-The fascist bloody terror!
-
-Chorus
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea877cf0436b66d3e98a3bb5d46d8d3fca64e78a49759585a9b64e2efdeb469e
+size 507

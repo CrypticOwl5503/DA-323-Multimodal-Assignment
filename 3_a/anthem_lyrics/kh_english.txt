@@ -1,17 +1,3 @@
-1. Heaven protects our King
-And gives him happiness and glory
-To reign over our souls and our destinies,
-The one being, heir of the Sovereign builders,
-Guiding the proud old Kingdom.
-
-2. Temples are asleep in the forest,
-Remembering the splendour of Moha Nokor.
-Like a rock the Khmer race is eternal.
-Let us trust in the fate of Cambodia,
-The empire which challenges the ages.
-
-3. Songs rise up from the pagodas
-To the glory of holy Buddhist faith.
-Let us be faithful to our ancestors’ belief.
-Thus heaven will lavish its bounty
-Towards the ancient Khmer country, the Moha Nokor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03f98df421693629b51a3bdc8b45d04364e0dda9a2be4a8742663e3de561613c
+size 597

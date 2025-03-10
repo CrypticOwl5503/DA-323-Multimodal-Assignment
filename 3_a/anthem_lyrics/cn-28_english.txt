@@ -1,4 +1,3 @@
-How bright is the Auspicious Cloud!
-How broad is the brilliancy!
-The light is spectacular with sun or moon.
-How it revives dawn after dawn!
+version https://git-lfs.github.com/spec/v1
+oid sha256:82f6947c74538486c85216ae58faaadad21dfdd059ab3f41020ab36050e74190
+size 142

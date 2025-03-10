@@ -1,17 +1,3 @@
-CHORUS:
-Fatherland, fatherland, East Timor our Nation
-Glory to the people and to the heroes of our liberation
-
-Fatherland, fatherland, East Timor our Nation
-Glory to the people and to the heroes of our liberation
-
-1. We vanquish colonialism,
-We cry: down with imperialism!
-Free land, free people,
-No, no, no to exploitation.
-
-Let us go forward, united, firm and determined
-In the struggle against imperialism,
-The enemy of people,
-Until final victory,
-Onward to revolution.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f74240ddfea402c898ddf3a8ddfd59afd94b0146c6fe2ae44d7ef8e60a2820a
+size 489

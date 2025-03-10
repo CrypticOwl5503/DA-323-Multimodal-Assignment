@@ -1,10 +1,3 @@
-Around our flag we are united,
-With one will and one desire,
-A sacred oath are now proclaiming
-For our salvation to aspire.
-
-CHORUS:
-May only those avoid the struggle,
-Those who are traitors to our laws,
-Undaunted is a hero through and through,
-He dies a martyr to the cause.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be7df15c10f03e661d75cc1fcaa1b285f7ad5c087c8b24019fbf07b69a4b0f22
+size 284
