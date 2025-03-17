@@ -49,8 +49,8 @@ for i, country_url in enumerate(country_links):
     try:
         # Creating MP3 link by replacing .htm with .mp3
         mp3_link = country_url.replace(".htm", ".mp3")
-        print(f"🔍 Processing [{i+1}/{len(country_links)}]: {country_url}")
-        print(f"🎵 Generated MP3 link: {mp3_link}")
+        print(f"Processing [{i+1}/{len(country_links)}]: {country_url}")
+        print(f"Generated MP3 link: {mp3_link}")
 
         headers = {
             'Accept': '*/*',
