@@ -4,6 +4,10 @@
 
 Collected and processed datasets across image, text, audio, and structured weather data. Automated scripts used for scraping, recording, and preprocessing.
 
+## Task 2: Audio-Visual Matching for Projectile Motion Simulations
+
+Developed an approach to match audio tracks with their corresponding muted video simulations of a ball following projectile motion inside a 2D rectangular frame. Extracted visual features from the videos and acoustic features from the audio tracks to identify distinctive motion patterns and synchronize the two modalities. Generated a CSV file with the final matches, providing a solution for multimodal data alignment.
+
 ## Task 3: Flags & Anthems Analysis
 
 Analyzed national flags (visual features), anthems (text analysis), and their correlations. Explored multimodal relationships between color symbolism and cultural identity.
